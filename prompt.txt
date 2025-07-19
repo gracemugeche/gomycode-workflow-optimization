@@ -1,0 +1,22 @@
+📄 AI Prompt Used
+I provided the following prompt to AI in order to receive assistance:
+
+Prompt:
+
+I received a broken web component: a simple pricing card layout that has multiple issues. The layout is broken, the CSS contains typos, the button is not fully responsive, and the HTML structure has mistakes (such as missing closing tags and incorrect properties).
+
+My task is to fix and refactor this component to make it clean, responsive, reusable, and ready for production use. I asked AI to:
+
+Identify and fix all existing layout bugs.
+
+Correct any misspelled CSS properties.
+
+Ensure all HTML tags are properly closed and structured.
+
+Make the button responsive and user-friendly.
+
+Refactor the component into a reusable pattern (e.g., easily reusable as a Card with title, price, and features).
+
+Provide a clean, modern, well-formatted, and responsive final version of the code.
+
+Finally, I asked AI to generate and deliver the full updated and working version of the code.
